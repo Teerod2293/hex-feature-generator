@@ -96,4 +96,5 @@ while true do
   puts "n - Следующее время дня"
   puts "d - Следующий день | p - Предыдущий день"
   input = parse_input
+  
 end
